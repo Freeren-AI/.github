@@ -11,8 +11,6 @@
 
 We are a collective of four friends merging **anime aesthetics**, **game mechanics**, and **experimental side projects**. From the Holy Grail of repositories to the Lost Woods of refactoring, we build what sparks our interest.
 
-[ [Website]() ] &nbsp; ● &nbsp; [ [Discord]() ] &nbsp; ● &nbsp; [ [Twitter]() ]
-
 ---
 
 ## 🗺️ QUEST LOG
