@@ -75,7 +75,7 @@ Writes the documentation before the project exists. Specializes in visions that 
 
 **Johnny, Curator of the Mirrored Maze** 🔵🟢⚪  
 `Archer` · `Lawful Good` · 🍃Grass/⚙️Steel  
-Polishes the UX until it's frictionless, then introduces a combo no one asked for that somehow wins. The perfectionist who also breaks reality.  
+Polishes the UX until it's frictionless, then introduces a combo no one asked for that somehow wins. The perfectionist who breaks reality.  
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 **Bruno, Phantom of the Critical Path** 🔴⚪🔵  
