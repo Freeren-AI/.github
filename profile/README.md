@@ -67,8 +67,6 @@ We're still figuring out where the journey ends.
 
 ## ⚜️ The Party
 
-&nbsp;
-
 **Ben** `Chaotic Good` ⚫🔵🟢  
 *Scrivener of Infinite Horizons*  
 Writes the documentation before the project exists. Specializes in visions that are ambitious, slightly impossible, and somehow still coherent.
