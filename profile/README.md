@@ -1,58 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=FREEREN%20AI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20am%20the%20bone%20of%20my%20code...&descAlignY=52&descSize=16" width="100%"/>
+# フリーレン AI
+
+### *"I am the bone of my code."*
 
 *(╯°□°）╯︵ ┻━┻*
-
-**It's dangerous to code alone. Take this.**
-
-Four friends. Anime aesthetics. Game mechanics. Experimental side projects.  
-From the Holy Grail of repositories to the Lost Woods of refactoring — we build what sparks our interest.
 
 </div>
 
 ---
 
-## 🗺️ Quest Log
+A party of four, traveling in no particular direction, building things that may or may not still work by the time we reach the next town. Anime aesthetics. Game mechanics. Experiments we started because someone said "how hard could it be."
 
-| Project | Aesthetic | Status |
+We're still figuring out where the journey ends.
+
+---
+
+## 📜 Quest Log
+
+| Project | Type | Status |
 | :--- | :--- | :--- |
 | &nbsp; | | |
 | &nbsp; | | |
 | &nbsp; | | |
 
-*"A wild project appeared!"* ᕙ(⇀‸↼‶)ᕗ
+*A wild project appeared.* ᕙ(⇀‸↼‶)ᕗ
 
 ---
 
-## 🎭 The Party
+## 🧭 The Party
 
-> We operate on a flat hierarchy of Masters and Servants — usually found arguing over frame data, seasonal OPs, or the most efficient way to over-engineer something simple.
+Flat hierarchy. Frequent arguments about frame data, seasonal OPs, and whether the current architecture was a mistake from the start.
 
 &nbsp;
 
-**Ben** — *Scrivener of Infinite Horizons* ⚫🔵🟢  
-`Chaotic Good` · The Visionary  
-Architect of the grand narrative. If it's big, bold, and slightly impossible, he's already writing the documentation for it. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+**Ben** `Chaotic Good` ⚫🔵🟢  
+*Scrivener of Infinite Horizons*  
+Writes the documentation before the project exists. Specializes in visions that are ambitious, slightly impossible, and somehow still coherent. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-**Johnny** — *Curator of the Mirrored Maze* 🔵🟢⚪  
-`Lawful Good` · Master of Control & Gimmicks  
-Technical perfectionist who polishes UX to a mirror finish, then breaks reality with a bizarre AI combo. Plays for the win-con no one saw coming. (⌐■_■)
+**Johnny** `Lawful Good` 🔵🟢⚪  
+*Curator of the Mirrored Maze*  
+Polishes the UX until it's frictionless, then introduces a combo no one asked for that somehow wins. The perfectionist who also breaks reality. (⌐■_■)
 
-**Bruno** — *Sentinel of the Silent Foundation* 🔴⚪🔵  
-`True Neutral` · Engine & Infrastructure Warden  
-The friendly architect of the unseen. Builds the immovable pillars so our grandiose ambitions have ground to stand on. (｡◕‿◕｡)
+**Bruno** `True Neutral` 🔴⚪🔵  
+*Sentinel of the Silent Foundation*  
+You won't notice his work until it's gone. Builds the load-bearing walls so everyone else can be reckless. (｡◕‿◕｡)
 
-**Allen** — *The Decadent Overlord* ⚪⚫🔴  
-`Chaotic Evil` · Chaos Engineer  
-Harbinger of draconic ruin and angelic grace. Demands the grandiose, the expensive, and the purely decadent. (✧ω✧)
+**Allen** `Chaotic Evil` ⚪⚫🔴  
+*The Decadent Overlord*  
+Demands the expensive, the grandiose, and the technically inadvisable. Somehow this produces the best features. (✧ω✧)
 
 ---
 
 ## 🌌 Philosophy
 
-No locked-in stacks. If a language or engine fits the project's soul, we use it.  
-We're here to build cool things, learn what happens when we press the "do not touch" buttons, and ship projects we'd actually want to play.
+No locked-in stacks. If a language fits the project's soul, we use it.  
+We push the buttons marked "do not touch." We ship things we'd actually want to play.
+
+The goal isn't to reach the destination — it's to see what we built along the way.
 
 **"Gotta code 'em all."**
 
@@ -60,8 +65,6 @@ We're here to build cool things, learn what happens when we press the "do not to
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*"It's not a bug, it's a narrative choice."*
+*"It's not a bug. It's a narrative choice."*
 
 </div>
