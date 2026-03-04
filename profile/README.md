@@ -67,10 +67,6 @@ We're still figuring out where the journey ends.
 
 ## ⚜️ The Party
 
-<div align="center">
-   ▲
-  ▲ ▲
-</div>
 
 **Ben, the Scrivener of Infinite Horizons** ⚫🔵🟢  
 `Caster` · `Chaotic Good` · 🌸Fairy/🔮Psychic  
