@@ -1,95 +1,67 @@
 <div align="center">
 
-# ⚔️ [FREEREN AI] ⚔️
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=FREEREN%20AI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20am%20the%20bone%20of%20my%20code...&descAlignY=52&descSize=16" width="100%"/>
 
-**"I am the bone of my code..."**
 *(╯°□°）╯︵ ┻━┻*
 
+**It's dangerous to code alone. Take this.**
+
+Four friends. Anime aesthetics. Game mechanics. Experimental side projects.  
+From the Holy Grail of repositories to the Lost Woods of refactoring — we build what sparks our interest.
+
+</div>
+
 ---
 
-### 🛡️ IT'S DANGEROUS TO CODE ALONE, TAKE THIS.
+## 🗺️ Quest Log
 
-We are a collective of four friends merging **anime aesthetics**, **game mechanics**, and **experimental side projects**. From the Holy Grail of repositories to the Lost Woods of refactoring, we build what sparks our interest.
-
----
-
-## 🗺️ QUEST LOG
-
-| Project | Type/Aesthetic | Status |
+| Project | Aesthetic | Status |
 | :--- | :--- | :--- |
 | &nbsp; | | |
 | &nbsp; | | |
 | &nbsp; | | |
 
-*“A wild project appeared!”* ᕙ(⇀‸↼‶)ᕗ
+*"A wild project appeared!"* ᕙ(⇀‸↼‶)ᕗ
 
 ---
 
-🎭 THE PARTY
-We operate on a flat hierarchy of Masters and Servants, usually found arguing over frame data, seasonal OPs, or the most efficient way to over-engineer a simple feature.
+## 🎭 The Party
 
-<div align="center">
-▲
-▲ ▲
-</div>
+> We operate on a flat hierarchy of Masters and Servants — usually found arguing over frame data, seasonal OPs, or the most efficient way to over-engineer something simple.
 
-Ben, Scrivener of Infinite Horizons ⚫🔵🟢
+&nbsp;
 
-Chaotic Good | The Visionary
+**Ben** — *Scrivener of Infinite Horizons* ⚫🔵🟢  
+`Chaotic Good` · The Visionary  
+Architect of the grand narrative. If it's big, bold, and slightly impossible, he's already writing the documentation for it. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-Architect of the grand narrative and weaver of the high-level lore. If it’s big, bold, and slightly impossible, he’s already writing the documentation for it. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+**Johnny** — *Curator of the Mirrored Maze* 🔵🟢⚪  
+`Lawful Good` · Master of Control & Gimmicks  
+Technical perfectionist who polishes UX to a mirror finish, then breaks reality with a bizarre AI combo. Plays for the win-con no one saw coming. (⌐■_■)
 
-Johnny, Curator of the Mirrored Maze 🔵🟢⚪
+**Bruno** — *Sentinel of the Silent Foundation* 🔴⚪🔵  
+`True Neutral` · Engine & Infrastructure Warden  
+The friendly architect of the unseen. Builds the immovable pillars so our grandiose ambitions have ground to stand on. (｡◕‿◕｡)
 
-Lawful Good | Master of Control & Gimmicks
-
-A technical perfectionist who polishes the UX to a mirror finish, then breaks reality with a bizarre AI combo. He plays for the win-con no one saw coming. (⌐■_■)
-
-Bruno, Sentinel of the Silent Foundation 🔴⚪🔵
-
-True Neutral | Engine & Infrastructure Warden
-
-The friendly architect of the unseen. He builds the immovable pillars of the codebase, ensuring our grandiose ambitions have a ground to stand on. (｡◕‿◕｡)
-
-Allen, the Decadent Overlord ⚪⚫🔴
-
-Chaotic Evil | The Chaos Engineer
-
-Harbinger of draconic ruin and angelic grace. He demands the grandiose, the expensive, and the purely decadent. (✧ω✧)
-
-🌌 PHILOSOPHY
-We don't believe in "locked-in" tech stacks. If a language or engine fits the project’s soul, we use it. We're here to build cool things, learn what happens when we push the "do not touch" buttons, and ship projects that we’d actually want to play.
-
-"Gotta code 'em all."
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
-
-
-
-<i>"It’s not a bug, it’s a narrative choice."</i>
-
-
-
-◯
-</p>
+**Allen** — *The Decadent Overlord* ⚪⚫🔴  
+`Chaotic Evil` · Chaos Engineer  
+Harbinger of draconic ruin and angelic grace. Demands the grandiose, the expensive, and the purely decadent. (✧ω✧)
 
 ---
 
-## 🌌 PHILOSOPHY
+## 🌌 Philosophy
 
-We don't believe in "locked-in" tech stacks. If a language or engine fits the project’s soul, we use it. We're here to build cool things, learn what happens when we push the "do not touch" buttons, and ship projects that we’d actually want to play.
+No locked-in stacks. If a language or engine fits the project's soul, we use it.  
+We're here to build cool things, learn what happens when we press the "do not touch" buttons, and ship projects we'd actually want to play.
 
 **"Gotta code 'em all."**
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
-  <br>
-  <i>"It’s not a bug, it’s a narrative choice."</i>
-  <br>
-  ◯
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*"It's not a bug, it's a narrative choice."*
 
 </div>
