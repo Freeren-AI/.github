@@ -69,8 +69,6 @@ We're still figuring out where the journey ends.
 
 ## 🧭 The Party
 
-Flat hierarchy. Frequent arguments about frame data, seasonal OPs, and whether the current architecture was a mistake from the start.
-
 &nbsp;
 
 **Ben** `Chaotic Good` ⚫🔵🟢  
@@ -102,12 +100,4 @@ We push the buttons marked "do not touch." We ship things we'd actually want to 
 
 The goal isn't to reach the destination — it's to see what we built along the way.
 
-**"Gotta code 'em all."**
-
 ---
-
-<div align="center">
-
-*"It's not a bug. It's a narrative choice."*
-
-</div>
