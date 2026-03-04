@@ -4,7 +4,18 @@
 
 ### *"I am the bone of my code."*
 
-*(╯°□°）╯︵ ┻━┻*
+```
+         ✦
+        /|\
+       / | \
+    ──/──+──\──
+       \ | /
+        \|/
+         |
+         ╧
+```
+
+*(ノಠ益ಠ)ノ彡┻━┻*
 
 </div>
 
@@ -36,19 +47,23 @@ Flat hierarchy. Frequent arguments about frame data, seasonal OPs, and whether t
 
 **Ben** `Chaotic Good` ⚫🔵🟢  
 *Scrivener of Infinite Horizons*  
-Writes the documentation before the project exists. Specializes in visions that are ambitious, slightly impossible, and somehow still coherent. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+Writes the documentation before the project exists. Specializes in visions that are ambitious, slightly impossible, and somehow still coherent.
+(✧ω✧)
 
 **Johnny** `Lawful Good` 🔵🟢⚪  
 *Curator of the Mirrored Maze*  
-Polishes the UX until it's frictionless, then introduces a combo no one asked for that somehow wins. The perfectionist who also breaks reality. (⌐■_■)
+Polishes the UX until it's frictionless, then introduces a combo no one asked for that somehow wins. The perfectionist who also breaks reality.
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 **Bruno** `True Neutral` 🔴⚪🔵  
 *Sentinel of the Silent Foundation*  
-You won't notice his work until it's gone. Builds the load-bearing walls so everyone else can be reckless. (｡◕‿◕｡)
+You won't notice his work until it's gone. Builds the load-bearing walls so everyone else can be reckless.
+(｡◕‿◕｡)
 
 **Allen** `Chaotic Evil` ⚪⚫🔴  
-*The Decadent Overlord*  
-Demands the expensive, the grandiose, and the technically inadvisable. Somehow this produces the best features. (✧ω✧)
+*Overlord of the Decadent*  
+Demands the expensive, the grandiose, and the technically inadvisable. Somehow this produces the best features.
+ψ(｀∇´)ψ
 
 ---
 
