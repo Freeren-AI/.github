@@ -65,7 +65,7 @@ We're still figuring out where the journey ends.
 
 ---
 
-## 🧭 The Party
+## ⚜️ The Party
 
 &nbsp;
 
