@@ -72,30 +72,27 @@ We're still figuring out where the journey ends.
   ▲ ▲
 </div>
 
-
-**Ben, the Scrivener of Infinite Horizons** ⚫🔵🟢
-`Caster` · `Chaotic Good` · 🌸Fairy/🔮Psychic
-Writes the documentation before the project exists. Specializes in visions that are ambitious, slightly impossible, and somehow still coherent.
+**Ben, the Scrivener of Infinite Horizons** ⚫🔵🟢  
+`Caster` · `Chaotic Good` · 🌸Fairy/🔮Psychic  
+Writes the documentation before the project exists. Specializes in visions that are ambitious, slightly impossible, and somehow still coherent.  
 (✧ω✧)
 
-**Johnny, the Curator of the Mirrored Maze** 🔵🟢⚪
-`Archer` · `Lawful Good` · 🍃Grass/⚙️Steel
-Polishes the UX until it's frictionless, then introduces a combo no one asked for that somehow wins. The perfectionist who also breaks reality.
+**Johnny, the Curator of the Mirrored Maze** 🔵🟢⚪  
+`Archer` · `Lawful Good` · 🍃Grass/⚙️Steel  
+Polishes the UX until it's frictionless, then introduces a combo no one asked for that somehow wins. The perfectionist who also breaks reality.  
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-**Bruno, the Phantom of the Critical Path** 🔴⚪🔵
-`Assassin` · `True Neutral` · 💧Water/⚡Electric
-Moves without noise. Controls the infrastructure everything depends on, and says nothing about it. You find out how dangerous he is only when something breaks — and it's already fixed.
+**Bruno, the Phantom of the Critical Path** 🔴⚪🔵  
+`Assassin` · `True Neutral` · 💧Water/⚡Electric  
+Moves without noise. Controls the infrastructure everything depends on, and says nothing about it. You find out how dangerous he is only when something breaks — and it's already fixed.  
 (｡◕‿◕｡)
 
-**Allen, the Decadent Overlord** ⚪⚫🔴
-`Berserker` · `Chaotic Evil` · 🔥Fire/🪶Flying
-Demands the expensive, the grandiose, and the technically inadvisable. Somehow this produces the best features.
+**Allen, the Decadent Overlord** ⚪⚫🔴  
+`Berserker` · `Chaotic Evil` · 🔥Fire/🪶Flying  
+Demands the expensive, the grandiose, and the technically inadvisable. Somehow this produces the best features.  
 ψ(｀∇´)ψ
 
-
 ---
-
 ## 🌌 Philosophy
 
 No locked-in stacks. If a language fits the project's soul, we use it.  
